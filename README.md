@@ -2,18 +2,63 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f766e,50:2563eb,100:7c3aed&text=Hi,%20I'm%20XiaoF-xy&fontColor=ffffff&fontAlignY=36&fontSize=42&desc=Student%20Developer%20%7C%20Builder%20of%20Useful%20Small%20Tools&descAlignY=58&descSize=16" alt="Profile banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Vite+%2B+React+%2B+TypeScript;Java+%2F+Python+%2F+Web+Development;Building+small+products+that+solve+real+problems;Currently+working+on+a+Changshu+Mahjong+scorekeeper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Java+%2F+Python+%2F+Web+Development;Code+generation+and+article+creation+tools;Vite+%2B+React+%2B+TypeScript;Building+small+products+that+solve+real+problems)](https://git.io/typing-svg)
 
 </div>
 
 ## About Me
 
 - Student at Shanghai Ocean University.
-- Interested in web apps, backend services, AI-assisted products, and practical developer tools.
+- Interested in web apps, backend services, AI-assisted products, code generation, and practical developer tools.
 - I like turning daily-life problems into small, usable software.
-- Current focus: **Changshu Mahjong scorekeeping website**.
+- Current focus: **code generation tools**, **article creator projects**, and **Changshu Mahjong scorekeeper**.
 
-## Featured Project
+## Featured Projects
+
+### Code Generation & Article Creation
+
+<table>
+  <tr>
+    <td width="52%">
+      <h3>code-generate</h3>
+      <p>A Java-based code generation project focused on improving repetitive development workflows.</p>
+      <ul>
+        <li>Uses Java as the primary language.</li>
+        <li>Designed around generation, automation, and reusable project patterns.</li>
+        <li>One of my key repositories for backend/tooling practice.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/XiaoF-xy/code-generate">Source Code</a>
+      </p>
+    </td>
+    <td width="48%">
+      <a href="https://github.com/XiaoF-xy/code-generate">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoF-xy&repo=code-generate&theme=tokyonight&hide_border=true" alt="code-generate repository card" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="52%">
+      <h3>passage-java</h3>
+      <p>Java version of an article creation tool.</p>
+      <ul>
+        <li>Focuses on article generation and writing workflow practice.</li>
+        <li>Java implementation of the passage project idea.</li>
+        <li>Useful for practicing application structure and text-processing flows.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/XiaoF-xy/passage-java">Source Code</a>
+      </p>
+    </td>
+    <td width="48%">
+      <a href="https://github.com/XiaoF-xy/passage-java">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoF-xy&repo=passage-java&theme=tokyonight&hide_border=true" alt="passage-java repository card" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+### Web Product
 
 <table>
   <tr>
@@ -36,6 +81,39 @@
       <a href="https://github.com/XiaoF-xy/ma-small-journal">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoF-xy&repo=ma-small-journal&theme=tokyonight&hide_border=true" alt="ma-small-journal repository card" />
       </a>
+    </td>
+  </tr>
+</table>
+
+## More Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/XiaoF-xy/passage-python">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoF-xy&repo=passage-python&theme=tokyonight&hide_border=true" alt="passage-python repository card" />
+      </a>
+      <p><b>passage-python</b>: Python version of the passage/article creation idea.</p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/XiaoF-xy/CaSaMamba">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoF-xy&repo=CaSaMamba&theme=tokyonight&hide_border=true" alt="CaSaMamba repository card" />
+      </a>
+      <p><b>CaSaMamba</b>: Python project for model/research-oriented practice.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/XiaoF-xy/data_17">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoF-xy&repo=data_17&theme=tokyonight&hide_border=true" alt="data_17 repository card" />
+      </a>
+      <p><b>data_17</b>: Data/project archive repository.</p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/XiaoF-xy/ma-small-journal">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoF-xy&repo=ma-small-journal&theme=tokyonight&hide_border=true" alt="ma-small-journal repository card" />
+      </a>
+      <p><b>ma-small-journal</b>: TypeScript web app deployed on GitHub Pages.</p>
     </td>
   </tr>
 </table>
@@ -70,6 +148,7 @@
 ## Current Roadmap
 
 - Improve the mahjong scorekeeper's Changshu rule modeling.
+- Keep improving the Java code generation and article creator projects.
 - Add multiplayer room flow and confirmation-based scoring.
 - Explore AI-powered match review through a backend API.
 - Keep building small, polished, deployable web tools.
