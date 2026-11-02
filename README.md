@@ -1,165 +1,46 @@
-<div align="center">
+# 星野 · Yu-L1
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f766e,50:2563eb,100:7c3aed&text=Hi,%20I'm%20XiaoF-xy&fontColor=ffffff&fontAlignY=36&fontSize=42&desc=Student%20Developer%20%7C%20Builder%20of%20Useful%20Small%20Tools&descAlignY=58&descSize=16" alt="Profile banner" />
+Bioinformatics · AI Applications · Full-stack Development
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Java+%2F+Python+%2F+Web+Development;Code+generation+and+article+creation+tools;Vite+%2B+React+%2B+TypeScript;Building+small+products+that+solve+real+problems)](https://git.io/typing-svg)
+上海海洋大学学生。关注 RNA 序列建模与 m6A 位点预测，也在构建 AI 应用和实用开发工具。
 
-</div>
+## 精选项目
 
-## About Me
+### RLMF-m6APred
 
-- Student at Shanghai Ocean University.
-- Interested in web apps, backend services, AI-assisted products, code generation, and practical developer tools.
-- I like turning daily-life problems into small, usable software.
-- Current focus: **code generation tools**, **article creator projects**, and **Changshu Mahjong scorekeeper**.
+RNA m6A 位点预测模型。覆盖人、小鼠和大鼠的 11 组物种／组织数据，提供五折模型权重、独立测试集推理代码与在线预测。
 
-## Featured Projects
+`Python` · `PyTorch` · `RNA language models` · `LoRA`
 
-### Code Generation & Article Creation
+[在线预测](https://xiaof-xy--rlmf.modal.run/) · [源代码](https://github.com/Yu-L1/RLMF-m6APred) · [模型权重](https://huggingface.co/Yu-star/RLMF-m6APred)
 
-<table>
-  <tr>
-    <td width="52%">
-      <h3>code-generate</h3>
-      <p>A Java-based code generation project focused on improving repetitive development workflows.</p>
-      <ul>
-        <li>Uses Java as the primary language.</li>
-        <li>Designed around generation, automation, and reusable project patterns.</li>
-        <li>One of my key repositories for backend/tooling practice.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/XiaoF-xy/code-generate">Source Code</a>
-      </p>
-    </td>
-    <td width="48%">
-      <a href="https://github.com/XiaoF-xy/code-generate">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoF-xy&repo=code-generate&theme=tokyonight&hide_border=true" alt="code-generate repository card" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="52%">
-      <h3>passage-java</h3>
-      <p>Java version of an article creation tool.</p>
-      <ul>
-        <li>Focuses on article generation and writing workflow practice.</li>
-        <li>Java implementation of the passage project idea.</li>
-        <li>Useful for practicing application structure and text-processing flows.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/XiaoF-xy/passage-java">Source Code</a>
-      </p>
-    </td>
-    <td width="48%">
-      <a href="https://github.com/XiaoF-xy/passage-java">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoF-xy&repo=passage-java&theme=tokyonight&hide_border=true" alt="passage-java repository card" />
-      </a>
-    </td>
-  </tr>
-</table>
+### Code Generate
 
-### Web Product
+AI 应用生成平台。从一句需求生成网站，支持对话式修改、实时预览、部署和源码导出。
 
-<table>
-  <tr>
-    <td width="58%">
-      <h3>Changshu Mahjong Scorekeeper</h3>
-      <p>A Vite + React + TypeScript web app for local mahjong table scorekeeping.</p>
-      <ul>
-        <li>Self draw, discard win, exposed kong, concealed kong, and manual adjustment.</li>
-        <li>Local browser persistence with <code>localStorage</code>.</li>
-        <li>Score trend chart and local review insights.</li>
-        <li>Deployed with GitHub Pages.</li>
-      </ul>
-      <p>
-        <a href="https://xiaof-xy.github.io/ma-small-journal/">Live Demo</a>
-        ·
-        <a href="https://github.com/XiaoF-xy/ma-small-journal">Source Code</a>
-      </p>
-    </td>
-    <td width="42%">
-      <a href="https://github.com/XiaoF-xy/ma-small-journal">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoF-xy&repo=ma-small-journal&theme=tokyonight&hide_border=true" alt="ma-small-journal repository card" />
-      </a>
-    </td>
-  </tr>
-</table>
+`Java` · `Spring Boot` · `Vue` · `LangChain4j`
 
-## More Projects
+[查看项目](https://github.com/Yu-L1/code-generate)
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/XiaoF-xy/passage-python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoF-xy&repo=passage-python&theme=tokyonight&hide_border=true" alt="passage-python repository card" />
-      </a>
-      <p><b>passage-python</b>: Python version of the passage/article creation idea.</p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/XiaoF-xy/CaSaMamba">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoF-xy&repo=CaSaMamba&theme=tokyonight&hide_border=true" alt="CaSaMamba repository card" />
-      </a>
-      <p><b>CaSaMamba</b>: Python project for model/research-oriented practice.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/XiaoF-xy/data_17">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoF-xy&repo=data_17&theme=tokyonight&hide_border=true" alt="data_17 repository card" />
-      </a>
-      <p><b>data_17</b>: Data/project archive repository.</p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/XiaoF-xy/ma-small-journal">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoF-xy&repo=ma-small-journal&theme=tokyonight&hide_border=true" alt="ma-small-journal repository card" />
-      </a>
-      <p><b>ma-small-journal</b>: TypeScript web app deployed on GitHub Pages.</p>
-    </td>
-  </tr>
-</table>
+### AI 图文创作
 
-## Tech Stack
+通过多智能体协作完成选题、标题、大纲、正文与配图，支持分阶段编辑和流式输出。提供 Java 与 Python 两种实现。
 
-<div align="center">
+`Spring AI Alibaba` · `FastAPI` · `Vue` · `SSE`
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[Java 版本](https://github.com/Yu-L1/passage-java) · [Python 版本](https://github.com/Yu-L1/passage-python)
 
-</div>
+## 研究实验
 
-## GitHub Stats
+- [BiM6A-FuseNet](https://github.com/Yu-L1/BiM6A-FuseNet) — RNA 语言模型与多视图手工特征的融合实验。
+- [BiRNA_m6A](https://github.com/Yu-L1/BiRNA_m6A) — 基于 BiRNA-BERT 的 m6A 预测、LoRA 微调与特征融合实验。
 
-<div align="center">
+## 项目中使用的技术
 
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=XiaoF-xy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoF-xy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+**模型与数据**　Python / PyTorch / Transformers / PEFT
 
-<br />
+**应用与服务**　Java / Spring Boot / FastAPI / Vue / TypeScript / MySQL / Redis
 
-<img src="https://streak-stats.demolab.com?user=XiaoF-xy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+---
 
-</div>
-
-## Current Roadmap
-
-- Improve the mahjong scorekeeper's Changshu rule modeling.
-- Keep improving the Java code generation and article creator projects.
-- Add multiplayer room flow and confirmation-based scoring.
-- Explore AI-powered match review through a backend API.
-- Keep building small, polished, deployable web tools.
-
-## Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-XiaoF--xy-181717?style=for-the-badge&logo=github)](https://github.com/XiaoF-xy)
-[![Project](https://img.shields.io/badge/Live_Project-Mahjong_Scorekeeper-0f766e?style=for-the-badge)](https://xiaof-xy.github.io/ma-small-journal/)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7c3aed,50:2563eb,100:0f766e" alt="Footer wave" />
+[全部公开项目](https://github.com/Yu-L1?tab=repositories)
